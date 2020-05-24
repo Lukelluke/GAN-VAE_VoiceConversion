@@ -1,0 +1,6 @@
+model_checkpoint_path: "model_3.639Glos_0.000Dlos_9009steps"
+all_model_checkpoint_paths: "model_3.928Glos_0.000Dlos_5005steps"
+all_model_checkpoint_paths: "model_3.736Glos_0.000Dlos_6006steps"
+all_model_checkpoint_paths: "model_3.682Glos_0.000Dlos_7007steps"
+all_model_checkpoint_paths: "model_3.498Glos_0.000Dlos_8008steps"
+all_model_checkpoint_paths: "model_3.639Glos_0.000Dlos_9009steps"
